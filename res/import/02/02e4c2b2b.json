@@ -1,0 +1,1 @@
+[{"__type__":"cc.AnimationClip","_name":"6_","_duration":1,"curveData":{"props":{"opacity":[{"frame":0,"value":255},{"frame":1,"value":0}]}}},{"__type__":"cc.SpriteFrame","content":{"name":"process","texture":"5b73e79d-7e18-49ed-95f6-f3bcbe2a3fad","rect":[0,0,738,99],"offset":[0,1],"originalSize":[738,101]}}]

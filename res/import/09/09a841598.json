@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"btn_gz","texture":"5d39d51d-f076-4a0f-a5de-53780246a9dd","rect":[2,32,160,117],"offset":[1,-9.5],"originalSize":[162,162]}},{"__type__":"cc.SpriteFrame","content":{"name":"gz_loc","texture":"86b37e5b-5665-4e7e-9996-08939959dd5d","rect":[2,0,186,123],"offset":[0.5,4],"originalSize":[189,131]}}]

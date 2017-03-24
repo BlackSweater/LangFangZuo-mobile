@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"btn_jiandao","texture":"37e80183-3b8a-4c0d-92cd-896a23e22989","rect":[0,0,82,82],"offset":[0,0],"originalSize":[82,82]}},{"__type__":"cc.SpriteFrame","content":{"name":"process","texture":"3f2f8fc3-a330-44c2-a69b-034f9123af3b","rect":[0,51,738,48],"offset":[0,-24.5],"originalSize":[738,101]}}]
